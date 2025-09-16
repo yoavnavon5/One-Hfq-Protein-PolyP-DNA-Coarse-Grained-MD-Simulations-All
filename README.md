@@ -1,0 +1,1 @@
+For running analysis of the electrostatic interaction energy values acquired throughout Coarse-Grained MD simulations (containing one Hfq protein), download the sub-folders and .ipynb files, specify inside the latter the paths of the formers (in the required locations) and run the code chunks. 
